@@ -1,1 +1,9 @@
-# todo-collaboration-practice
+# To-Do List (Trabajo colaborativo en GitHub)
+
+Proyecto para practicar flujos de trabajo reales en GitHub:
+- Manejo de ramas
+- Pull Requests
+- Code Review
+- Estrategias de merge
+- Issues
+- Contribución externa
