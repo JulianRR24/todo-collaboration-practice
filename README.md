@@ -7,3 +7,7 @@ Proyecto para practicar flujos de trabajo reales en GitHub:
 - Estrategias de merge
 - Issues
 - Contribución externa
+
+# Branch
+
+1. devni: Para el desarrollo del daniel
