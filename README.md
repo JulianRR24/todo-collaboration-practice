@@ -10,4 +10,4 @@ Proyecto para practicar flujos de trabajo reales en GitHub:
 
 # Branch
 
-1. devni: Para el desarrollo del dani
+1. devni: Para el desarrollo del daniel
